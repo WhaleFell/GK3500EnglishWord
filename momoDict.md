@@ -76,7 +76,7 @@ ask
 asleep
 at
 attend
-attendtion
+attention
 aunt
 autumn
 avoid
@@ -86,7 +86,7 @@ awful
 
 # 基础词汇 - B
 
-bady
+baby
 back
 background
 bad
@@ -107,7 +107,7 @@ bean
 bear
 beat
 beautiful
-bacause
+because
 become
 bed
 bedroom
@@ -130,8 +130,8 @@ birth
 birthday
 biscuit
 bit
-blask
-blaskboard
+back
+backboard
 blind
 block
 blood
@@ -244,7 +244,7 @@ collect
 college
 colour
 come
-confortable
+comfortable
 common
 communicate
 communication
@@ -375,7 +375,7 @@ elephant
 else
 email
 empty
-emcourage
+encourage
 end
 enemy
 engineer
@@ -405,7 +405,7 @@ excite
 excited
 exciting
 excuse
-exerise
+exercise
 expect
 expensive
 experience
