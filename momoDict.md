@@ -621,7 +621,7 @@ influence
 information
 inside
 instead
-instuction
+instruction
 instrument
 interest
 interesting
