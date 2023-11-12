@@ -1195,7 +1195,7 @@ strong
 student
 study
 stupid
-subjecy
+subject
 succeed
 success
 successful
@@ -1232,9 +1232,9 @@ tea
 teach
 teacher
 team
-techmology
+technology
 telephone
-televison
+television
 tell
 temperature
 tennis
@@ -1334,7 +1334,7 @@ usually
 
 vacation
 value
-valueable
+valuable
 vegetable
 very
 victory
